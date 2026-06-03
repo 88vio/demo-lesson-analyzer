@@ -21,6 +21,7 @@ node scripts/analyze.js
 # или
 python scripts/analyze.py
 ```
+![скрин гл](images/Снимок%20экрана%202026-06-03%20164651.png)
 
 Отчёт сохраняется в `reports/ДАТА_отчёт.md` и выводится в терминал.
 
